@@ -1,3 +1,4 @@
+[🇵🇱 Polski](README.md) | 🇬🇧 English
 ## AURORA SYSTEM
 
 ### Premium AI-powered Discord Community System
