@@ -1,3 +1,4 @@
+🇵🇱 Polski | [🇬🇧 English](README_EN.md)
 ## AURORA SYSTEM
 
 ### Premium system AI dla społeczności Discord
